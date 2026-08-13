@@ -100,28 +100,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        All submissions must be videos with clear, audible clicks. Submissions may not be hacked and must show a green cheat indicator on the level's endscreen.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Submission must be on the copy of the level that is listed on the site - please check the level ID before you submit a record. You must show proof that your completion is on the listed copy in your submission video.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Videos must show the entire completions attempt; cropped videos are not permitted. 
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Liveplay recordings/phone recordings are allowed, but they must show the entire screen and the cheat indicator must be visible for the entire video.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        10+ CPS is permitted for completions, not for verifications.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Completions must use the intended route for the level; secret ways or bug routes are not permitted. 
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then records will stop being accepted for that level.
                     </p>
                 </div>
             </div>
