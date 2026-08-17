@@ -1,8 +1,8 @@
 :root {
     --color-background: AntiqueWhite;
     --color-on-background: black;
-    --color-primary: BurlyWood;
-    --color-on-primary: white;
+    --color-primary: DarkGoldenRod;
+    --color-on-primary: Cornsilk;
 }
 
 .nav {
