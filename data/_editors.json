@@ -1,27 +1,17 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "List Owner: swizzley",
+        "link": "https://www.youtube.com/@swizzleys"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "List Admin: icedwavvy",
+        "link": "https://www.youtube.com/@icedwavvy"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "admin",
+        "name": "Server Owner: ITSME",
+        "link": "https://cdn.discordapp.com/avatars/880804874760101889/12e64b11e6e85c02ade1cc0dd32d63a9.webp?size=1024"
     }
 ]
