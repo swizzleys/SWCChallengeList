@@ -1,12 +1,12 @@
 :root {
-    --color-background: #faecc8;
-    --color-on-background: #faecc8;
-    --color-background-hover: #faecc8;
-    --color-on-background-hover: #faecc8;
-    --color-primary: #faecc8;
-    --color-on-primary: #faecc8;
-    --color-error: #faecc8;
-    --color-on-error: #faecc8;
+    --color-background: AntiqueWhite;
+    --color-on-background: black;
+    --color-background-hover: Bisque;
+    --color-on-background-hover: black;
+    --color-primary: #faebd7;
+    --color-on-primary: AntiqueWhite;
+    --color-error: ##de0000;
+    --color-on-error: white;
 }
 
 main.dark,
