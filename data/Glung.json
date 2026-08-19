@@ -7,5 +7,29 @@
     "verification": "https://youtu.be/WbumWLjZMUU?is=sCKkv_wr6C0C7m_V",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "icedwavvy",
+            "link": "https://youtu.be/eyYnPf5M8ws",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TripleSpawn",
+            "link": "https://youtu.be/Gl-mNEZiCxs?is=S2AqNHOF-bzrBo2G",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "sashuu",
+            "link": "https://vm.tiktok.com/ZN8LAT7w1/",
+            "percent": 100,
+            "hz": 240
+        }
+        {
+            "user": "aldi",
+            "link": "https://www.youtube.com/watch?v=MoZoPvXGcS4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
