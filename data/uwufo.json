@@ -7,5 +7,17 @@
     "verification": "https://youtu.be/wYAwjL3e8mo",
     "percentToQualify": "52",
     "records": [
+        {
+            "user": "Lpopon",
+            "link": "https://youtu.be/0xRF5BQlK8o",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "aldi",
+            "link": "https://youtu.be/OPvfbDhKhxY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
