@@ -30,6 +30,24 @@
             "link": "https://www.youtube.com/watch?v=MoZoPvXGcS4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Rydogg",
+            "link": "https://youtu.be/AfDCRntaK2Y?is=zRYQbdLrACzmvreW",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "MIXZED",
+            "link": "https://www.youtube.com/watch?v=nM0iY9UqM7w",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dwnd",
+            "link": "https://drive.google.com/file/d/1ZTNKHspxvy9neSd_pR9Vfp2jfqjjKUaV/view?usp=sharing",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
