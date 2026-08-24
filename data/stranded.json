@@ -14,9 +14,21 @@
             "hz": 360
         },
         {
-            "user": "swizzley",
+            "user": "I'm cold",
             "link": "https://medal.tv/games/geometry-dash/clips/nnm12Fmu1kB-iP5Yp?invite=cr-MSxGR2csNTg4NTQ0ODg3",
-            "percent": 72,
+            "percent": 100,
+            "hz": 500
+        },
+        {
+            "user": "MIXZED",
+            "link": "https://www.youtube.com/watch?v=qd3UJxgFy_4&feature=youtu.be",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "swizzley",
+            "link": "https://youtu.be/5v8lSTtfbDA",
+            "percent": 100,
             "hz": 240
         }
     ]
