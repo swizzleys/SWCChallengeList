@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/VIxZ_zgGDKM?is=3LleJuw6M-HF4Z00",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "aldi",
+            "link": "https://youtu.be/qNw9gdS2FJY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
