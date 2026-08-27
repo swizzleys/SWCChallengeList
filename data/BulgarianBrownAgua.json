@@ -7,5 +7,11 @@
     "verification": "https://vm.tiktok.com/ZN8LDsJ5m/",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "icedwavvy",
+            "link": "https://youtu.be/ChGoyv6JV0Q",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
