@@ -1,0 +1,35 @@
+{
+    "id": 147438547,
+    "name": "Bloodlust but cool",
+    "author": "Omegagamerepic",
+    "creators": [],
+    "verifier": "Omegagamerepic",
+    "verification": "https://youtu.be/J9zMqtEg3vo",
+    "percentToQualify": "59",
+    "records": [
+        {
+            "user": "I'm cold",
+            "link": "https://drive.google.com/file/d/1kGqFbq_oH_tJvt-CfBH6Vhl_lLShVl5_/view?usp=drive_link",
+            "percent": 100,
+            "hz": 500
+        },
+        {
+            "user": "MIXZED",
+            "link": "https://youtu.be/HNRJWAp5RTU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "devs",
+            "link": "https://www.youtube.com/watch?v=AZy3hw8RvLo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "icedwavvy",
+            "link": "https://youtu.be/Uti4shcVwdI",
+            "percent": 100,
+            "hz": 11
+        }
+    ]
+}
