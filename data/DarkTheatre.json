@@ -1,0 +1,41 @@
+{
+    "id": 147521299,
+    "name": "Dark Theatre",
+    "author": "Astro",
+    "creators": [],
+    "verifier": "Astro",
+    "verification": "https://youtu.be/AOR_D4zerqU",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "I'm cold",
+            "link": "https://drive.google.com/file/d/1kGqFbq_oH_tJvt-CfBH6Vhl_lLShVl5_/view?usp=drive_link",
+            "percent": 100,
+            "hz": 500
+        },
+        {
+            "user": "devs",
+            "link": "https://www.youtube.com/watch?v=eagsNx0jS5M",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "icedwavvy",
+            "link": "https://youtu.be/Uti4shcVwdI",
+            "percent": 100,
+            "hz": 13
+        },
+        {
+            "user": "Dwnd",
+            "link": "https://youtu.be/1wElb_IiGOM?is=SGvyrpf1u95eAT6Y",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bottleman54",
+            "link": "https://youtu.be/E8tGxOmcA0Q?si=-R_J5M-KkWPkPH41",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
