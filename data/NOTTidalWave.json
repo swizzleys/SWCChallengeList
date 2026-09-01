@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=wY3PNhuZ-eI",
     "percentToQualify": "70",
     "records": [
+        {
+            "user": "icedwavvy",
+            "link": "https://youtu.be/2WgrG_1wkw0",
+            "percent": 100,
+            "hz": 56
+        }
     ]
 }
