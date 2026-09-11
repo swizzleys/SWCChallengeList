@@ -18,6 +18,30 @@
             "link": "https://youtu.be/GV8jrz_WikY?is=JFitGJleXjBQLlNo",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "I'm cold",
+            "link": "https://drive.google.com/file/d/1Fg_53t1iMrWLaJB8wGZMSP0D3Brx0SDy/view?usp=sharing",
+            "percent": 100,
+            "hz": 500
+        },
+        {
+            "user": "devs",
+            "link": "https://www.youtube.com/watch?v=_r_lA7GDzq0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MIXZED",
+            "link": "https://www.youtube.com/watch?v=pqNTkwvIBkU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lpopon",
+            "link": "https://youtu.be/fCXXZaYQrF0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
