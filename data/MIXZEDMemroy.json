@@ -12,6 +12,12 @@
             "link": "https://youtu.be/qNw9gdS2FJY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "devs",
+            "link": "https://www.youtube.com/watch?v=icZ2LOtyyCY",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
