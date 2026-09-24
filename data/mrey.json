@@ -1,0 +1,23 @@
+{
+    "id": 148917512,
+    "name": "mrey",
+    "author": "Magic_yolo",
+    "creators": [],
+    "verifier": "Magic_yolo",
+    "verification": "https://youtu.be/jVpFl5w_i9A",
+    "percentToQualify": "64",
+    "records": [
+        {
+            "user": "icedwavvy",
+            "link": "https://youtu.be/hcEE2PRxXik",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dwnd",
+            "link": "https://youtu.be/QJlFmVLqTHE?is=EQpEyRgtWgXjfbsm",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
