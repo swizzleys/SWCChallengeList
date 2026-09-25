@@ -1,0 +1,17 @@
+{
+    "id": 140538079,
+    "name": "cheesedotmp4",
+    "author": "Tadpole bee",
+    "creators": [],
+    "verifier": "Tadpole bee",
+    "verification": "https://www.youtube.com/watch?v=ZFX3x1k8CaY",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Dwnd",
+            "link": "https://youtu.be/Cbq1lLOV6yI?is=vA-9MyJt4IK5HR2N",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
