@@ -1,0 +1,23 @@
+{
+    "id": 132278332,
+    "name": "Purple Aura",
+    "author": "Magic_yolo",
+    "creators": [],
+    "verifier": "Magic_yolo",
+    "verification": "https://youtu.be/wQWx52kaZz4",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Fangz",
+            "link": "https://drive.google.com/file/d/1mmb31I6qHmUTPLzXRrc9vOoy6x6XewXX/view?usp=sharing",
+            "percent": 100,
+            "hz": 500
+        },
+        {
+            "user": "Dwnd",
+            "link": "https://youtu.be/QVp_SRr-1FY?is=w76W96lXb13MOoLR",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
