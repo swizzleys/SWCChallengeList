@@ -1,0 +1,23 @@
+{
+    "id": 148420388,
+    "name": "Maymory Came Early",
+    "author": "TripleSpawn",
+    "creators": [],
+    "verifier": "TripleSpawn",
+    "verification": "https://youtu.be/2ziQjjMkaLg",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Dwnd",
+            "link": "https://youtu.be/zVkIIfG_uRA?is=k0vDfY2k7ORiNnLB",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Tadpole bee",
+            "link": "https://drive.google.com/file/d/1u_a7zOI_klfIKjxTQUOf_7aU7RcUdgQf/view?usp=sharing",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
