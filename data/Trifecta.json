@@ -1,0 +1,23 @@
+{
+    "id": 138625362,
+    "name": "Trifecta",
+    "author": "Astro",
+    "creators": [],
+    "verifier": "Astro",
+    "verification": "https://youtu.be/9Og7mtI6YKE",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Death Corridor",
+            "link": "https://youtu.be/WbUOEZ6sE9E?si=BCV5iN9OT1MXUS1b",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Dwnd",
+            "link": "https://youtu.be/NR92JG7qj3o?is=UD6lzyvjHaEwDzpy",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
