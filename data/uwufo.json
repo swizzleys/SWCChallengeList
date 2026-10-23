@@ -36,6 +36,12 @@
             "link": "https://www.youtube.com/watch?v=bMqw8-2vHx0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ICatO",
+            "link": "https://youtu.be/HD1jtLPQefI",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
