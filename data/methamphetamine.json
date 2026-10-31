@@ -30,6 +30,30 @@
             "link": "https://www.youtube.com/watch?v=EKS8qWnkr7I",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Tungsten8or",
+            "link": "https://youtu.be/iMeWr4WSWuA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Omegagamerepic",
+            "link": "https://youtu.be/uomTs5-6gmE",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Astro",
+            "link": "https://drive.google.com/file/d/1m4dM856DnAu3AOZF7MvZD0DvsTz0_Zl3/view?usp=sharing",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "icedwavvy",
+            "link": "https://youtu.be/6TlW-Hop-Dg",
+            "percent": 100,
+            "hz": 5000
         }
     ]
 }
