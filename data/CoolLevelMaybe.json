@@ -1,0 +1,23 @@
+{
+    "id": 148811212,
+    "name": "Cool Level Maybe",
+    "author": "Star",
+    "creators": [],
+    "verifier": "Star",
+    "verification": "https://youtu.be/sX0FJa3FiPk?is=zkLRVln7rdJBOSSo",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "sashuu",
+            "link": "https://youtu.be/6MC1Z5NJVZ4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Hermes Arcas",
+            "link": "https://drive.google.com/file/d/1FhfVS5jLDLtHgzboN3F6qls6hx4uXIxw/view?usp=sharing",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
