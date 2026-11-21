@@ -84,6 +84,12 @@
             "link": "https://www.youtube.com/watch?v=l4c7FQoNQxE",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Jormungandr",
+            "link": "https://youtu.be/5GBqMLXB3BE",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
