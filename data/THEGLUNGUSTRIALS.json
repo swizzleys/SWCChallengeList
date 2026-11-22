@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/BINt7m2P7jU?si=4pn2lgOSkhfnZz9A",
     "percentToQualify": "60",
     "records": [
+        {
+            "user": "Hermes Arcas",
+            "link": "https://drive.google.com/file/d/1ua9ku4yTfJM-clXgO8s7bvfdMRsqb6iW/view?usp=sharing",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
