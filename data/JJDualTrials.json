@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/tAawqqhhhCA",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Astro",
+            "link": "https://drive.google.com/file/d/1mPT0-WCMZ6r7TyRkIvTK8oWcFGrSdoRd/view?usp=sharing",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
