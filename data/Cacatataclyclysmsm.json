@@ -7,5 +7,17 @@
     "verification": "https://youtu.be/HM-JIoWIXiU",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Dwnd",
+            "link": "https://youtu.be/W1PET_f77JQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "icedwavvy",
+            "link": "https://youtu.be/llXiCXVWBNM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
